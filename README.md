@@ -1,52 +1,79 @@
-# Myntra Data Analysis
+# Hi, I'm Madhavareddy Erugula 👋
 
-## 📌 Project Overview
+### Data Analyst | Excel | SQL | Power BI | Python
 
-This project analyzes Myntra product data to identify
-patterns, trends and insights from the dataset.
+I'm an aspiring Data Analyst passionate about turning raw data into meaningful insights and business-focused dashboards.
 
-## 🛠️ Tools Used
+I enjoy working with data to identify trends, solve problems, and communicate insights through clear visualizations.
 
-- Microsoft Excel
+---
+
+## 🧰 Skills & Tools
+
+### Data Analysis
+- Excel
+- SQL
+- Python
+- Pandas
 - Data Cleaning
-- Pivot Tables
-- Charts
-- Dashboard
+- Exploratory Data Analysis
 
-## 🎯 Objectives
+### Data Visualization
+- Power BI
+- Excel Dashboards
+- Data Visualization
+- KPI Reporting
 
-- Analyze product categories
-- Understand pricing patterns
-- Identify key trends
-- Build an interactive dashboard
+### Currently Learning
+- Advanced SQL
+- Python for Data Analysis
+- Power BI
+- Statistics
+- AI Tools for Data Analytics
 
-## 📊 Dashboard
+---
 
-[Insert dashboard screenshot]
+## 📊 Featured Projects
 
-## 🔍 Key Insights
+### 🛍️ Myntra Sales & Product Analysis
+**Tools:** Excel | Data Cleaning | Dashboarding
 
-1. ...
-2. ...
-3. ...
+- Analyzed product and sales-related data
+- Cleaned and transformed raw datasets
+- Created an interactive Excel dashboard
+- Identified trends and key performance indicators
 
-## 📁 Dataset
+---
 
-Dataset used for analysis: ...
+### 📈 Sales / Business Dashboard
+**Tools:** Excel | Data Visualization
 
-## 🚀 Skills Demonstrated
+- Built an interactive dashboard
+- Created KPI summaries and visual reports
+- Used charts and filters to explore business performance
 
-Excel • Data Cleaning • Data Analysis • Data Visualization
-**MadhavareddyErugula/MadhavareddyErugula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🗄️ SQL Data Analysis
+**Tools:** SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Practiced filtering, aggregation and sorting
+- Used SQL queries to extract business insights
+- Worked with real-world style datasets
+
+---
+
+## 🎯 Career Goal
+
+I'm currently building my skills in data analytics and looking for opportunities where I can use data to solve business problems and create actionable insights.
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/madhavareddyergula)
+- 🌐 [Portfolio](https://madhava-analytics.emadhava1439.chatgpt.site)
+
+---
+
+⭐ Thanks for visiting my profile!
